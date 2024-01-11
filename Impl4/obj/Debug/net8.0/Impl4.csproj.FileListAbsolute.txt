@@ -1,0 +1,14 @@
+C:\Users\alesr\RiderProjects\Impl4\Impl4\bin\Debug\net8.0\Impl4.exe
+C:\Users\alesr\RiderProjects\Impl4\Impl4\bin\Debug\net8.0\Impl4.deps.json
+C:\Users\alesr\RiderProjects\Impl4\Impl4\bin\Debug\net8.0\Impl4.runtimeconfig.json
+C:\Users\alesr\RiderProjects\Impl4\Impl4\bin\Debug\net8.0\Impl4.dll
+C:\Users\alesr\RiderProjects\Impl4\Impl4\bin\Debug\net8.0\Impl4.pdb
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\Impl4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\Impl4.AssemblyInfoInputs.cache
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\Impl4.AssemblyInfo.cs
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\Impl4.csproj.CoreCompileInputs.cache
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\Impl4.dll
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\refint\Impl4.dll
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\Impl4.pdb
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\Impl4.genruntimeconfig.cache
+C:\Users\alesr\RiderProjects\Impl4\Impl4\obj\Debug\net8.0\ref\Impl4.dll
